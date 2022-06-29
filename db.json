@@ -1,6 +1,4 @@
 {
-    "projects": "MY Projects",
-    
       "all": [
         {
           "name": "Jane Doe",
@@ -13,7 +11,7 @@
           "relationship": "parent"
         }
       ],
-      
+
       "react": [
         {
           "name": "Jane Doe",
