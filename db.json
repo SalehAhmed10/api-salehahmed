@@ -1,7 +1,7 @@
 {
     "projects": {
-        "All-Projects": {
-            "id-1": {"name":"random Profile Generator", "web":"https://foodjson.herokuapp.com/"},
+        "All": {
+            "id-1": {"name":"Random Profile Generator", "web":"https://foodjson.herokuapp.com/"},
             "id-2": {"name":"Food.Json", "web":"https://foodjson.herokuapp.com/"}
         },
         "React": {
