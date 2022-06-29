@@ -1,13 +1,30 @@
 {
-    "projects": {
-        "All": [
-            {"model":"Sentra", "doors":4},
-            {"model":"Maxima", "doors":4},
-            {"model":"Skyline", "doors":2}
-        ],
-        "React": [
-            {"model":"Taurus", "doors":4},
-            {"model":"Escort", "doors":4}
-        ]
+    "projects": "MY Projects",
+    
+      "all": [
+        {
+          "name": "Jane Doe",
+          "phone": "888-555-1212",
+          "relationship": "spouse"
+        },
+        {
+          "name": "Justin Doe",
+          "phone": "877-123-1212",
+          "relationship": "parent"
+        }
+      ],
+      
+      "react": [
+        {
+          "name": "Jane Doe",
+          "phone": "888-555-1212",
+          "relationship": "spouse"
+        },
+        {
+          "name": "Justin Doe",
+          "phone": "877-123-1212",
+          "relationship": "parent"
+        }
+      ]
     }
-}
+  
