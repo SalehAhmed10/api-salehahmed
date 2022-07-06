@@ -4,21 +4,21 @@
             "id": 0,
             "name": "Food.Json",
             "web": "https://foodjson.herokuapp.com/",
-            "thumbnail": "./assets/food.json.png"
+            "thumbnail": "https://i.imgur.com/nZQpkvQ.png"
         },
   
         {
             "id": 1,
             "name": "random Profile Generator",
             "web": "https://profilegenerator.vercel.app/",
-            "thumbnail": "./assets/profilegenerator.png"
+            "thumbnail": "https://i.imgur.com/PvKzfd3.png"
         },
   
         {
             "id": 2,
             "name": "Countries-db",
             "web": "https://react-countries-db.vercel.app/",
-            "thumbnail": "./assets/countries-db.png"
+            "thumbnail": "https://i.imgur.com/HOM5qsO.png"
         }
 
       ],
