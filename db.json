@@ -4,23 +4,23 @@
             "id": 0,
             "name": "Food.Json",
             "web": "https://foodjson.herokuapp.com/",
-            "image": "./assets/food.json.png"
+            "thumbnail": "./assets/food.json.png"
         },
   
         {
             "id": 1,
             "name": "random Profile Generator",
             "web": "https://profilegenerator.vercel.app/",
-            "image": "./assets/profilegenerator.png"
+            "thumbnail": "./assets/profilegenerator.png"
         },
   
         {
             "id": 2,
             "name": "Countries-db",
             "web": "https://react-countries-db.vercel.app/",
-            "image": "./assets/countries-db.png"
+            "thumbnail": "./assets/countries-db.png"
         }
-  
+
       ],
 
     "react" : [
