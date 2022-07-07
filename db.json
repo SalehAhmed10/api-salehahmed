@@ -23,7 +23,7 @@
             "name": "Countries-db",
             "web": "https://react-countries-db.vercel.app/",
             "thumbnail": "https://i.imgur.com/HOM5qsO.png",
-            "desc" : "Coutries Data App",
+            "desc" : "Countries Data App",
             "madewith": "React"
         },
 
