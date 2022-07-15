@@ -6,7 +6,8 @@
             "web": "https://foodjson.herokuapp.com/",
             "thumbnail": "https://i.imgur.com/nZQpkvQ.png",
             "desc" : "Food Recipe App",
-            "madewith": "React"
+            "madewith": "React",
+            "repo":"https://github.com/SalehAhmed10/Food.Json"
         },
   
         {
@@ -15,7 +16,8 @@
             "web": "https://profilegenerator.vercel.app/",
             "thumbnail": "https://i.imgur.com/PvKzfd3.png",
             "desc" : "Random User Profile Generator App",
-            "madewith": "React"
+            "madewith": "React",
+            "repo":"https://github.com/SalehAhmed10/random-profile-generator"
         },
   
         {
@@ -24,7 +26,8 @@
             "web": "https://react-countries-db.vercel.app/",
             "thumbnail": "https://i.imgur.com/HOM5qsO.png",
             "desc" : "Countries Data App",
-            "madewith": "React"
+            "madewith": "React",
+            "repo":"https://github.com/SalehAhmed10/countries-db"
         },
 
         {
@@ -33,7 +36,8 @@
             "web": "https://upstorm.herokuapp.com/",
             "thumbnail": "https://i.imgur.com/7tXkGbV.png",
             "desc" : "Weather App",
-            "madewith": "JavaScript"
+            "madewith": "JavaScript",
+            "repo":"https://github.com/SalehAhmed10/upstorm"
         },
   
         {
@@ -42,7 +46,8 @@
             "web": "https://react-countries-db.vercel.app/",
             "thumbnail": "https://i.imgur.com/U3Ta3qc.png",
             "desc" : "Covid 19 Tracker App",
-            "madewith": "PHP"
+            "madewith": "PHP",
+            "repo":"https://github.com/SalehAhmed10/covid9teen"
         },
         {
             "id": 5,
@@ -50,7 +55,8 @@
             "web": "https://animequotes.herokuapp.com/",
             "thumbnail": "https://i.imgur.com/SPjytd4.png",
             "desc" : "Generate Anime Quotes",
-            "madewith": "JavaScript"
+            "madewith": "JavaScript",
+            "repo":"https://github.com/SalehAhmed10/animequotes"
         }
 
       ],
