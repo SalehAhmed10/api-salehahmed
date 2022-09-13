@@ -43,7 +43,7 @@
         {
             "id": 4,
             "name": "covid 19 Tracker",
-            "web": "https://react-countries-db.vercel.app/",
+            "web": "http://covid9teen.herokuapp.com/",
             "thumbnail": "https://i.imgur.com/U3Ta3qc.png",
             "desc" : "Covid 19 Tracker App",
             "madewith": "PHP",
